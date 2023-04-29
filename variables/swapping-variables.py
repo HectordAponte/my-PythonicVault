@@ -45,5 +45,8 @@ b = a ^ b
 a = a ^ b
 print("After swapping Using XOR bitwise operation: a =", a, "and b =", b)
 
+""" Note 4: This solution uses the XOR bitwise operator (^) to swap the values of a and b. We perform the XOR operation on a and b, and store the result in a. Then we perform the XOR operation again on the new value of a and the original value of b, and store the result in b. Finally, we perform the XOR operation again on the new value of b and the original value of a, and store the result in a. The values of a and b are swapped.
+ """
+
 """Warning!
 Please keep in mind that some of these solutions may not be suitable for certain scenarios, and it's always important to consider the limitations and edge cases of each approach before implementing them."""
