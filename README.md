@@ -9,3 +9,13 @@ A repository of my Python coding exercises and solutions, all in one place.
 [Problem 1: Swapping variables](variables/swapping-variables.ipynb)
 
 >In construction... 🚧
+
+
+
+Este es un método `.lower()`
+
+
+```Python
+aviso = "hola"
+print(aviso)
+```
